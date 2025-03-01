@@ -1,0 +1,59 @@
+.nosotros-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #000; /* Letra negra */
+    background-color: #fff; /* Fondo blanco */
+}
+
+.titulo {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #000; /* Letra negra */
+}
+
+h2 {
+    color: #000; /* Letra negra */
+    margin-top: 20px;
+}
+
+h3, h4 {
+    color: #000; /* Letra negra */
+}
+
+p, ul {
+    line-height: 1.6;
+    color: #000; /* Letra negra */
+}
+
+ul {
+    margin: 10px 0 20px 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #000; /* Letra negra */
+}
+
+strong {
+    font-weight: bold;
+    color: #000; /* Letra negra */
+}
+
+.bienestar-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.bienestar-block {
+    flex: 1;
+    color: #000; /* Letra negra */
+}
+
+p {
+    margin-bottom: 20px;
+    color: #000; /* Letra negra */
+}
